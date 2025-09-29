@@ -1,14 +1,12 @@
-# CleanRooms: Tabular ML with Scikit‑Learn
+# AutoValue: Car Price Prediction with Scikit-Learn
 
-This repository contains **Project One** for my portfolio: an end‑to‑end machine‑learning analysis implemented in a Jupyter notebook using **Python** and **scikit‑learn**. The project focuses on a tabular dataset (e.g., sourced from the UCI Machine Learning Repository) and demonstrates a clear workflow from exploratory analysis to model training and evaluation.
+This repository contains **Machine Learning Project** for my portfolio: an end‑to‑end machine‑learning analysis implemented in a Jupyter notebook using **Python** and **scikit‑learn**. The project focuses on a tabular dataset (e.g., sourced from the UCI Machine Learning Repository) and demonstrates a clear workflow from exploratory analysis to model training and evaluation.
 
 > Notebook file: `ProjectOne_ML.ipynb`
 
 ---
 
-## 📌 Edited Assignment Requirements (No Video)
-
-**Goal.** Use a dataset that I have **not** previously used in this course (i.e., not the dataset from the prior 5–7 minute presentation and not my main course project dataset). A good source is the **UCI Machine Learning Repository**.
+## 📌 Project Requirements
 
 **Deliverables.**
 1. A Jupyter notebook (`ProjectOne_ML.ipynb`) that:
@@ -17,10 +15,6 @@ This repository contains **Project One** for my portfolio: an end‑to‑end mac
    - Clearly calls out **three course concepts** applied in the analysis. Each concept should be explicitly labeled in the notebook (e.g., **Concept #1:** “When the dependent variable is skewed, evaluate with a confusion matrix and class‑wise metrics, not only accuracy.”). These must be **my own independent analysis**.
 2. A `README.md` (this file) summarizing the project, environment setup, how to run the notebook, and results.
 3. `requirements.txt` (and optional `environment.yml`) for reproducibility.
-4. The repository should be original work; do not reuse another student’s concepts or analysis.
-
-**Removed requirement.**
-- The original requirement to **create and upload a video** is **omitted**. All demonstration and explanations are provided inside the notebook and this README.
 
 ---
 
@@ -35,7 +29,6 @@ This repository contains **Project One** for my portfolio: an end‑to‑end mac
   - **Concept #2 (Feature encoding & scaling for mixed numeric/categorical data).**
   - **Concept #3 (Evaluation with regression metrics beyond R²—MAE, RMSE, MedAE).**
 
-> Replace the placeholders above with the specifics of your chosen car dataset and final chosen models.
 
 ---
 
@@ -76,32 +69,6 @@ jupyter notebook
 
 ---
 
-## 📂 Repository Structure
-
-```
-.
-├── ProjectOne_ML.ipynb      # Main notebook (provided)
-├── data/                    # Optional sample/synthetic data (empty placeholder)
-├── figures/                 # Exported charts (empty placeholder)
-├── requirements.txt         # Python dependencies
-├── environment.yml          # Conda environment (optional)
-├── .gitignore               # Ignore caches, venvs, checkpoints, outputs
-├── LICENSE                  # MIT
-└── README.md                # This file
-```
-
----
-
-## ✅ Submission / Portfolio Checklist
-
-- [ ] Notebook executes top‑to‑bottom without errors.
-- [ ] At least **two ML models** implemented with **justification**.
-- [ ] **Three course concepts** clearly labeled and explained.
-- [ ] `requirements.txt` accurate; `environment.yml` optional but current.
-- [ ] README updated with dataset details, results, and next steps.
-- [ ] Repo public and linked from the portfolio website.
-
----
 
 ## 🔒 License
 
